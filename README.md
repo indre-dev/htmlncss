@@ -1,1 +1,1 @@
-Hi we will learn htm and css.
+Hello, we will learn html and css.
