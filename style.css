@@ -1,0 +1,30 @@
+.Amazon {
+    color: rgb(0, 113, 133);
+}
+.Nike {
+    font-weight: bold;
+    font-size: x-large;
+}
+.Price {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.Delivery {
+    font-size: large;
+}
+.Add-to-card {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    width: 100px;
+    height: 28px;
+    border-radius: 50px ;
+
+}
+.Buy-now {
+    background-color: rgb(255, 194, 28);
+    border: none;
+    width: 100px;
+    height: 28px;
+    border-radius: 50px ;
+    margin-left: 4px;
+}
